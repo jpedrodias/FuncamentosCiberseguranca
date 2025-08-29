@@ -2,21 +2,7 @@
 Fundamentos de Cibersegurança ativa (9196)
 
 
-# Curso
-Cibersegurança ativa (9196)
-
-# Duração
-50h 00m
-
-# Horário
-Laboral
-Pós-Laboral
-On-line
-
-# Forma de organização predominante
-Formação a distância - E-learning (turma)
-
-# Resumo do Conteúdo Programático
+## Resumo do Conteúdo Programático
 * Ataques na rede
 * Packet sniffing
 * IP Spoofing
@@ -51,7 +37,7 @@ Formação a distância - E-learning (turma)
 * Ciência forense
 * Evolução
 
-# Objetivos
+## Objetivos
 * Fundamentação
 * Crime cibernético
 * Desafios em matéria de cibercrime
@@ -82,29 +68,13 @@ Formação a distância - E-learning (turma)
 * Ataque de phishing
 * Relatório de investigação forense
 
-# Condições de acesso / Público-Alvo
-* Idade compreendida entre 18 e 65 anos.
-* Habilitação mínima de acesso
-* Ensino secundário
-* Situação profissional
-* Empregados por conta de outrem - Externos
-* Habilitações específicas
-* Escolaridade mínima obrigatória - 12ºano
 
-# Precedências
-* Participantes devem estar empregados no sector privado
-* Escolaridade mínima obrigatória - 12ºano
-* Todo o material necessário para assistir e participar na formação, é da responsabilidade do formando (computador, câmara, microfone, software)
-
-# Objectivos Gerais:
+## Objectivos Gerais:
 * Descrever a resposta a incidentes na informática forense.
 * Identificar evidências digitais.
 * Utilizar ferramentas de análise e recolha de logs e mecanismos de salvaguarda.
 * Identificar evidências de incidentes informáticos.
 * Elaborar relatórios de investigação forense.
 
-# Objectivos Específicos:
+## Objectivos Específicos:
 * Método Interrogativo, Ativo, Expositivo e Demonstrativo
-
-# Certificação
-* Plataforma SIGO
